@@ -1,4 +1,6 @@
 Testing Pertama Repo 
 - Ini Repo Pertama 
-- Buat Aplikasi Bengkel Perut dengan PHP dan MySQL 
+- Buat Aplikasi Bengkel Perut dengan PHP dan MySQL
+- Menambahkan Fitur keranjang pada Aplikasi Bengkel Perut 
+- Menambahkan Fitur pembayaran pada Aplikasi Bengkel Perut
 - Buat Aplikasi TourYuk dengan HTML dan JavaScript
