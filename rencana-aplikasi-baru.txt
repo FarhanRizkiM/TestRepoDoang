@@ -1,0 +1,7 @@
+Rencana Membuat Aplikasi Baru untuk Portfolio
+
+- Aplikasi Sistem Akademik 
+- Aplikasi E-Commerce
+  * Fitur CRUD
+  * Fitur Keranjang
+- Aplikasi Berbasis Mobile 
