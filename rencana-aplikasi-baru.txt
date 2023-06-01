@@ -8,4 +8,5 @@ Rencana Membuat Aplikasi Baru untuk Portfolio
     ^ MySQL 
   * Fitur Keranjang
     ^ Javascript
+      ~ React Js
 - Aplikasi Berbasis Mobile 
