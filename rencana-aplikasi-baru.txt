@@ -6,4 +6,7 @@ Rencana Membuat Aplikasi Baru untuk Portfolio
     ^ PHP
       ~ Laravel 
     ^ MySQL 
+  * Fitur Keranjang
+    ^ Javascript
+      ~ React Js
 - Aplikasi Berbasis Mobile 
