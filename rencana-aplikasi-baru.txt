@@ -4,6 +4,9 @@ Rencana Membuat Aplikasi Baru untuk Portfolio
 - Aplikasi E-Commerce
   * Fitur CRUD
     ^ PHP
+      ~ Laravel 
     ^ MySQL 
   * Fitur Keranjang
+    ^ Javascript
+      ~ React Js
 - Aplikasi Berbasis Mobile 
